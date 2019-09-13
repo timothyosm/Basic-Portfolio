@@ -1,0 +1,15 @@
+header{
+    width: 960px;
+    background: white;
+    margin: 0 auto; 
+}
+
+.name{
+    float: left;
+    background: teal;
+    color: white;
+}
+
+.links{
+    float: right;
+}
