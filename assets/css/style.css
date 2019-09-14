@@ -42,18 +42,13 @@
       padding-right: 10px;
       padding-bottom: 10px;
   }
-
-  body {
-background-color: beige;
-  }
-
   .heading{
       background: #ffffff;
       height: 120px;
 
   }
 
-  .body{
-background: white;
-padding: 10px;
+  body{
+    background-image:url("interlaced.png");
+
   }
