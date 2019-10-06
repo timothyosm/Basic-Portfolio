@@ -289,3 +289,9 @@ form {
         text-align: center;
     }
 }
+
+
+#hangman{
+    width: 200px;
+    height: 200px;
+  }
